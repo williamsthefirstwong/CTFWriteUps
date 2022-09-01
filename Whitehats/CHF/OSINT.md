@@ -1,9 +1,11 @@
-*Challenge 1: Find Esmiraldaton*
+<b>*<H1>Challenge 1: Find Esmiraldaton</H1>*</b>
 
-[Question]
+<b>*Question*</b>
+
 Can you find Esmiraldaton? All we know is that her last name is Imani.
 
-[Answer]
+<b>*Answer*</b>
+
 Methods to look for user's information can be either social media, search engines or osint search tools.
 
 <p align="center"><img src="https://miro.medium.com/max/1400/1*4WMnGFT_Z0UJ3QN3vDLrhw.png" width="290" height="336"></p>
