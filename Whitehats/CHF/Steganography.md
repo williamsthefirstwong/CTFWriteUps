@@ -6,7 +6,7 @@ I got airdropped this picture. I wonder what this means?!!
 
 <b>*Answer*</b>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/66903347/187976043-a06a96a3-fa88-44c7-96a3-48523360e005.png" width="383" height="336"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/66903347/187976043-a06a96a3-fa88-44c7-96a3-48523360e005.png" width="650" height="590"></p>
 
 So Open...So Exposed...
 
