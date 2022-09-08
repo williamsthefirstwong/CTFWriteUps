@@ -32,8 +32,27 @@ Where is my flag?
 
 Straightforward challenge.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/66903347/189205281-062fffef-6a1c-467c-b70e-b5002c7638a8.png" width=300px</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/66903347/189205281-062fffef-6a1c-467c-b70e-b5002c7638a8.png" width=500px</p>
 
 <b>*Flag*</b>
 
 ```CHF{grep_is_good_to_find_things_5af9d829}```
+  
+  
+  <b>*<H1>Challenge: hidden files</H1></b>
+
+<b>*Question*</b>
+
+Someone hid something in the hidden. Locate it in ~/releases/challenge folder.
+
+User: ctfuser Host: box.whitehats.live Port: Any number from 2000 to 2100 Password: whitehats!
+
+<b>*Answer*</b>
+
+The hint was hidden files. Therefore, we can use the <kdb>ls -la</kdb> command to list all files and directories within the current directory.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/66903347/189206408-9851bb5b-0653-40cc-bb3c-c9380b234d71.png" width=600px</p>
+
+<b>*Flag*</b>
+
+  CHF{H0w_d1D-Y0u_f1nD_m3!?}
