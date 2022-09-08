@@ -1,4 +1,4 @@
-<b>*<H1>Challenge: Corrupted*</H1></b>
+<b>*<H1>Challenge: Corrupted</H1></b>
 
 <b>*Question*</b>
 
@@ -21,3 +21,19 @@ After restoring the image, we get the flag!
 <b>*Flag*</b>
 
 ```CHF{f1x1nG_cOrrupt3d_ 1|31}```
+
+  <b>*<H1>Challenge: Where is my flag?</H1></b>
+
+<b>*Question*</b>
+
+Where is my flag?
+
+<b>*Answer*</b>
+
+Straightforward challenge.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/66903347/189205281-062fffef-6a1c-467c-b70e-b5002c7638a8.png" width=300px</p>
+
+<b>*Flag*</b>
+
+```CHF{grep_is_good_to_find_things_5af9d829}```
