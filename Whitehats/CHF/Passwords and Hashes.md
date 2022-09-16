@@ -92,7 +92,7 @@ hash: VTFVMVJsSlZNREpOTVdoSVZGWnNXVkpXY0VST01ERkxWVlpTVEZSV2NGZFVSRlpXVm5wU1lWRn
 
 <b>*Answer*</b>
 
-The hint was "running 4 bases". It told me the hash was encrypted 4 times by base** hashes. There are a few base** hashes in total and I tried an error unitl I got the correct sequence. 
+The hint was "running 4 bases". It told me the hash was encrypted 4 times by base** hashes. There are a few base** hashes in total and I tried an error until I got the correct sequence. 
 
 <b><i>BASE64 -> BASE64 -> BASE64 -> BASE32</i></b>
 
